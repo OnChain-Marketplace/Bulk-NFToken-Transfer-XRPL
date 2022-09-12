@@ -11,7 +11,7 @@
 
  ### Configuring the Script
  ##### Configuration File
- *This is the details to be configured in `config.json`*
+ *These are the details to be configured in `config.json`*
  ```
  {
     "nodes": [  "wss://xls20-sandbox.rippletest.net:51233" ],
@@ -30,7 +30,7 @@
  6. **transferAll** -> A boolean figure. If ***TRUE***, the script will transfer ALL NFTokens from the *sender* to the *recipient*. If ***FALSE***, the script will ONLY transfer the defined NFTokens in the `arrayTokenIDs.json` file.
 
  ##### Defined Tokens to Transfer File
- *This is the details to be configured in `arrayTokenIDs.json`*
+ *These are the details to be configured in `arrayTokenIDs.json`*
  ```
  [
     "00080000C030302B96AF4535D488B846166EB6822BBF146E0B03651200000576",
@@ -46,7 +46,7 @@
  OCM boasts the most decentralised and open NFToken Marketplace on the XRPL, and has the lowest known fee for interacting and trading.
  Feel free to vist [OCM](https://onchainmarketplace.net/), and experience a new era of NFToken trading.
 
- To learn more about the XRPL visit .
+ To learn more about the XRPL visit [here](https://xrpl.org/).
  To learn specifics about NFToken trading on the XRPL, visit [here](https://xrpl.org/nftokencreateoffer.html#nftokencreateoffer).
 
  ### Dependencies
