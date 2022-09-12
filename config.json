@@ -1,0 +1,8 @@
+{
+    "nodes": [  "wss://xls20-sandbox.rippletest.net:51233" ],
+    "senderSeed": "sEXAMPLESEED",
+    "recipientSeed": "sEXAMPLESEED",
+    "amountToTransfer": 200,
+    "fee": "20",
+    "transferAll": true
+}
