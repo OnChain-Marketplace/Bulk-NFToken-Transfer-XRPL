@@ -18,7 +18,6 @@ const {
     fee,
     transferAll
 } = require(`./config.json`)
-const { makeError } = require('discord.js')
 
 //CLIENTS
  let xrplClient = new xrpl.Client(nodes[0])
